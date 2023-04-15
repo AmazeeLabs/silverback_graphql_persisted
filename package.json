@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_graphql_persisted",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "scripts": {
     "version": "sync-composer-version"
   },
@@ -13,5 +13,5 @@
     "repository": "git@github.com:AmazeeLabs/silverback_graphql_persisted.git",
     "branch": "main"
   },
-  "gitHead": "933baf19f5d68eea718005baf4101b1cb679f251"
+  "gitHead": "58e3211a9154930af213d2678e162e8cd7606db4"
 }
